@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @julietaferreiro
-- 👀Acerca de mí ...Estudiante de programacion.
+- 🙎🏼‍♀️ About me ...Estudiante de programacion.
 Me considero una persona responsable y ordenada.
 Buscando mi primera experiencia laboral en el rubro de programacion
 
-- 🌱 I’m currently learning ...
+- 📚 I’m currently learning ...
 - 📫 How to reach me ... julieta.ferreiro95@gmail.com
 
 <!---
