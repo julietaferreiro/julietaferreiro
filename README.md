@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @julietaferreiro
-- 👀 I’m interested in ...
+- 👀Acerca de mí ...Estudiante de programacion.
+Me considero una persona responsable y ordenada.
+Buscando mi primera experiencia laboral en el rubro de programacion
+
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... julieta.ferreiro95@gmail.com
 
 <!---
 julietaferreiro/julietaferreiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
